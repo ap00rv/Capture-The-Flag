@@ -1,4 +1,4 @@
-This is a post about my attempt to solve the memory analysis challenge in SECCON 2016 qualifier held on December 10 and 11. Although I could not solve the challenge, I realized that I was really close after I read a writeup. I decided to write a post about my approach and the mistake I made. 
+This is a description about my attempt to solve the memory analysis challenge in SECCON 2016 qualifier held on December 10 and 11. Although I could not solve the challenge, I realized that I was really close after I read a writeup. I decided to write a post about my approach and the mistake I made. 
 
 
 The filename was 'forensics_100.raw' and a short version of the challenge description is as follows :
